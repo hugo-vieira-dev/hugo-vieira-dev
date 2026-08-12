@@ -11,7 +11,8 @@ focado em criar soluções eficientes e robustas, com especial interesse na arqu
 * **Bases de Dados:** Supabase / PostgreSQL.
 
 ### 🚀 Projetos em Desenvolvimento
-* **CutAxis-Pro:** Gestão inteligente de cortes, rastreabilidade e redução de desperdício em cozinhas profissionais.
+* **[CutAxis-Pro](https://github.com/hugo-vieira-dev/CutAxis-Pro):** Gestão inteligente de cortes,
+* rastreabilidade e redução de desperdício em cozinhas profissionais.
 
 
 ---

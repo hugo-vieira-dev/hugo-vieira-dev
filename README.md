@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Hugo! 👋
 
-<!--
-**hugo-vieira-dev/hugo-vieira-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou a iniciar a minha jornada no mundo do desenvolvimento de software, 
+focado em criar soluções eficientes e robustas, com especial interesse na arquitetura de **Backend**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias & Stacks Atuais
+* **Linguagens:** Python (Lógica & Base) e JavaScript (Fundamentos para Backend).
+* **Web:** HTML5 & CSS3.
+* **Bases de Dados:** Supabase / PostgreSQL.
+
+### 🚀 Projetos em Desenvolvimento
+* **CutAxis-Pro:** Gestão inteligente de cortes, rastreabilidade e redução de desperdício em cozinhas profissionais.
+
+
+---
+* 💼 [LinkedIn](https://www.linkedin.com/in/hugo-vieira-213b38180/)
+* 💬 [Discord](https://discordapp.com/users/hugo000524)

@@ -1,20 +1,21 @@
-# Olá, eu sou o Hugo! 👋
+# Hi, I'm Hugo! 👋
 
-Estou a iniciar a minha jornada no mundo do desenvolvimento de software, 
-focado em criar soluções eficientes e robustas, com especial interesse na arquitetura de **Backend**.
+I'm starting my journey in the world of software development, focused on creating efficient and robust solutions, with a special interest in **Backend** architecture.
 
 ---
 
-### 🛠️ Tecnologias & Stacks Atuais
-* **Linguagens:** Python (Lógica & Base) e JavaScript (Fundamentos para Backend).
+### 🛠️ Current Technologies & Stacks
+* **Languages:** Python (Logic & Base) and JavaScript (Backend Fundamentals).
+
 * **Web:** HTML5 & CSS3.
-* **Bases de Dados:** Supabase / PostgreSQL.
 
-### 🚀 Projetos em Desenvolvimento
-* **[CutAxis-Pro](https://github.com/hugo-vieira-dev/CutAxis-Pro):** Gestão inteligente de cortes,
-* rastreabilidade e redução de desperdício em cozinhas profissionais.
+* **Databases:** Supabase / PostgreSQL.
 
+### 🚀 Projects in Development
+* **[CutAxis-Pro](https://github.com/hugo-vieira-dev/CutAxis-Pro):** Intelligent cutting management,
+
+* traceability and waste reduction in professional kitchens.
 
 ---
 * 💼 [LinkedIn](https://www.linkedin.com/in/hugo-vieira-213b38180/)
-* 💬 [Discord](https://discordapp.com/users/hugo000524)
+* 💬 [Discord](https://discordapp.com/users/hugo000524) 

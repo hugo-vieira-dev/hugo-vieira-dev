@@ -1,21 +1,25 @@
 # Hi, I'm Hugo! 👋
 
-I'm starting my journey in the world of software development, focused on creating efficient and robust solutions, with a special interest in **Backend** architecture.
+Information Systems student focused on **Backend Architecture** and expanding my skills into **Full-Stack** development.  
+Passionate about building efficient solutions, APIs, and robust data structures.
 
 ---
 
-### 🛠️ Current Technologies & Stacks
-* **Languages:** Python (Logic & Base) and JavaScript (Backend Fundamentals).
+### 🛠️ Stacks & Technologies
+* **Backend & Logic:** Python, JavaScript (Node.js/Backend Fundamentals)
+* **Databases:** Supabase / PostgreSQL
+* **Frontend:** HTML5, CSS3, JavaScript
+* **Tools & Version Control:** Git, GitHub
 
-* **Web:** HTML5 & CSS3.
+---
 
-* **Databases:** Supabase / PostgreSQL.
+### 🚀 Featured Projects
+* **CutAxis-Pro:** Intelligent cutting management system designed for traceability and waste reduction in professional kitchens.
+* **MamaThula App (Open Source):** Contributor focused on resolving issues and refactoring the authentication and sign-up flows (Flutter + Supabase).
 
-### 🚀 Projects in Development
-* **[CutAxis-Pro](https://github.com/hugo-vieira-dev/CutAxis-Pro):** Intelligent cutting management,
+---
 
-* traceability and waste reduction in professional kitchens.
-
+### 📬 Let's Connect!
 ---
 * 💼 [LinkedIn](https://www.linkedin.com/in/hugo-vieira-213b38180/)
 * 💬 [Discord](https://discordapp.com/users/hugo000524) 

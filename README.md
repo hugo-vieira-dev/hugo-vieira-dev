@@ -17,6 +17,7 @@ Passionate about building efficient solutions, APIs, and robust data structures.
 * **CutAxis-Pro:** Intelligent cutting management system designed for traceability and waste reduction in professional kitchens.
 * **MamaThula App (Open Source):** Contributor focused on resolving issues and refactoring the authentication and sign-up flows (Flutter + Supabase).
 * **Traffic Safety Beatricx (Private):** Powered traffic monitoring system — vehicle detection, speed estimation and accident evidence capture via computer vision.
+* **[JARVIS - Voice Assistant]:** Interactive desktop assistant built with Python, featuring real-time speech recognition, custom DSP audio pipelines, and a hardware-accelerated UI.
 
 ---
 
